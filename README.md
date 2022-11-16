@@ -5,8 +5,6 @@ Codeing, Computer Sciece, C++, mono
 ***Rust***
 - 💞️ I’m looking to collaborate on ...
 Anythign Really
-- 📫 How to reach me ...
-Find me lol
 
 <!---
 TboOffical/TboOffical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
