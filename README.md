@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @TboOffical
-- 👀 I’m interested in ...
-Codeing, Computer Sciece, C++, mono
-- 🌱 I’m currently learning ...
-***Rust***
-- 💞️ I’m looking to collaborate on ...
-Anythign Really
+What do you put in here.
+
 
 <!---
 TboOffical/TboOffical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
